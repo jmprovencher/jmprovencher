@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on the Usage Analytics and Data Platform @Coveo
+- 🔭  I’m a Software Engineer currently working on the Usage Analytics and Data Platform @Coveo
 - 🌩️  I'm passionnate about Cloud Infrastructure and developing services and APIs that will scale to millions of requests daily
 - 💸  I like to monitor and improve cloud costs
+- 🗞️ AWS and GCP Certified
 - 🏈  Fun fact: I'm a Division 1 Football Coach
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/jmprovencher/) or [Email](mailto:jeanmichelprovencher@hotmail.com)
 
