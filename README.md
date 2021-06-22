@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on the Usage Analytics and Data Platform @Coveo
+- 🌩️ I'm passionnate about Cloud Infrastructure and developing services and APIs that will scale to millions of requests daily
+- 💸 I like to monitor and improve cloud costs
+- 🏈 Fun fact: I'm a Division 1 Football Coach
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jmprovencher/) or [Email](mailto:jeanmichelprovencher@hotmail.com)
+
+## Blog Posts
+
+[8 things that are good to know before using AWS Secrets Manager](https://source.coveo.com/2020/03/26/6-automatic-credentials-rotation/)
+
 <!--
 **jmprovencher/jmprovencher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
