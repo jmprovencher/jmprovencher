@@ -7,9 +7,9 @@
 - 🏈  Fun fact: I'm a Division 1 Football Coach
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/jmprovencher/) or [Email](mailto:jeanmichelprovencher@hotmail.com)
 
-## Blog Posts
+## Tech Blog Posts
 
-[8 things that are good to know before using AWS Secrets Manager](https://source.coveo.com/2020/03/26/6-automatic-credentials-rotation/)
+[8 things that are good to know before using AWS Secrets Manager](https://medium.com/@JimProvencher/8-things-that-are-good-to-know-before-using-aws-secrets-manager-e2ba70b1cbba)
 
 <!--
 **jmprovencher/jmprovencher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
