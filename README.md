@@ -9,6 +9,8 @@
 
 ## Tech Blog Posts
 
+[Creating a custom Sentry block using Prefect 2](https://medium.com/@JimProvencher/creating-a-custom-sentry-block-using-prefect-2-17fcfab182fc)
+
 [Integrating Sentry in Prefect Flows](https://medium.com/@JimProvencher/integrating-sentry-in-prefect-flows-c1c385400e3a)
 
 [8 things that are good to know before using AWS Secrets Manager](https://medium.com/@JimProvencher/8-things-that-are-good-to-know-before-using-aws-secrets-manager-e2ba70b1cbba)
