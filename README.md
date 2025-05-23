@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭  I’m a Staff Software Engineer & Team Lead currently working on Data Platform @Coveo
-- 🌩️  I'm passionnate about Cloud Infrastructure and developing services and APIs that will scale to millions of requests daily
+- 🔭  I’m an engineering manager currently working on Data & Engineering @Stripe
+- 🌩️  I'm passionnate about Data, Cloud Infrastructure and developing services and APIs that will scale to millions of requests daily
 - 💸  I like to monitor and find ingenious ways of reducing cloud costs
 - 🗞️  AWS and GCP Certified
 - 🏈  Fun fact: I'm a Division 1 Football Coach
